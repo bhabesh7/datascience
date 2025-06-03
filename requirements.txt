@@ -1,0 +1,11 @@
+tensorflow
+numpy 
+pandas 
+scikit-learn
+ipykernel
+matplotlib
+seaborn
+plotly
+ydata-profiling
+scipy
+statsmodels

@@ -1,0 +1,44 @@
+# Virtual environment
+.venv/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs and temporary files
+*.log
+*.tmp
+*.swp
+
+# MLflow experiment tracking (if needed)
+mlruns/
+backend/
+
+# Model artifacts and weights (optional)
+*.h5
+*.hdf5
+*.pt
+*.pth
+*.joblib
+*.pkl
+
+# Environment files
+.env
+.env.*
+
+# Docker-related (if used later)
+*.pid
+docker-compose.override.yml

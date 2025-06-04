@@ -1,6 +1,9 @@
 # datascience
 dissertation
 
+System: Ubuntu 22.04
+Python: 3.10.12 (64 bit)
+
 The main objective of this repo is to maintain the code nd artifacts that are needed to train and experiment with different kinds of models fr the remaining useful life prediction of equipments and engines.
 
 The structure of the project is 

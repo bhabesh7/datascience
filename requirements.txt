@@ -9,3 +9,5 @@ plotly
 ydata-profiling
 scipy
 statsmodels
+mlflow
+boto3
